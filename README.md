@@ -113,5 +113,3 @@ docker compose up -d --build
 ## 📝 License
 
 MIT
-
-```
