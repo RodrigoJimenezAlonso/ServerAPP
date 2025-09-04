@@ -115,8 +115,3 @@ docker compose up -d --build
 MIT
 
 ```
-
----
-
-Si quieres, te preparo ahora el **README reducido** para tu repo principal de la app, donde simplemente apuntas a este repo con un link y unos pasos rápidos. ¿Quieres que lo arme?
-```
